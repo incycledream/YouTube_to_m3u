@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
-https://www.youtube.com/c/24OnLive/live
+BELSAT | беларускія | https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/240px-Belsat_%282022%29.svg.png |
+https://www.youtube.com/c/belsat_news/live
